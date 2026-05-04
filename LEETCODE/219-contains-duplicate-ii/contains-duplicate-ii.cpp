@@ -1,27 +1,22 @@
 class Solution {
 public:
     bool containsNearbyDuplicate(vector<int>& nums, int k) {
-        int i =0,j=0;
         int n=nums.size();
-        unordered_set <int> window;
+        unordered_map <int,int> mp; 
 
-        while ( j<n ){
+        for (int i=0; i < n; i++){
 
-            //1. check if condition
-            if ( abs(i-j)>k){
-                window.erase(nums[i]);
-                i++; //shrink
+            // first check whether the number was seen before or not  , then check window       condition
+            if( mp.count(nums[i])){
+                if (abs(i-mp[nums[i]]<=k)){
+                    return true;
+                }
             }
 
-            //2. if element , seen in the past ( already present in the set)
-            if ( window.find(nums[j])!=window.end()){
-                return true;
-            }
-
-            //3. else 
-            window.insert(nums[j]);
-            j++;
+            // if the element is not seen before , update it with index 
+            mp[nums[i]]=i;
         }
+
         return false;
     }
 };
