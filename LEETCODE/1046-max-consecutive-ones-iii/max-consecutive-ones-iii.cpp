@@ -2,18 +2,21 @@ class Solution {
 public:
     int longestOnes(vector<int>& nums, int k) {
         int maxlen = 0;
-        unordered_map<int,int> mp;
+        int zeroCount = 0;
         // take 2 pointers r, l
         int r=0;
         int l=0;
         int n=nums.size();
 
         while ( r<n ){
-            mp[nums[r]]++;
+            if ( nums[r]==0){
+                zeroCount++;
+            }
 
-            while ( mp[0]>k){
+            while ( zeroCount>k){
                 // shrink until window --- mein the count of Zeroes reduces to <=2
-                mp[nums[l]]--;
+                
+                if( nums[l]==0) zeroCount--;
                 l++;
             }
 
