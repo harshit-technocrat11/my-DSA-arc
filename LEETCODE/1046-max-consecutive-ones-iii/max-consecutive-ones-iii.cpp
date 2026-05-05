@@ -13,7 +13,7 @@ public:
                 zeroCount++;
             }
 
-            while ( zeroCount>k){
+            if ( zeroCount>k){
                 // shrink until window --- mein the count of Zeroes reduces to <=2
                 
                 if( nums[l]==0) zeroCount--;
