@@ -1,22 +1,26 @@
 class Solution {
 public:
     vector<int> nextGreaterElements(vector<int>& nums) {
-        //brute force 
-        int n= nums.size();
-        // answer array
-        vector<int> ans(n,-1);
+        // taking double search space
         
-        for ( int i =0; i < n; i++ ){
-            for ( int j=i+1; j<(n)+i; j++){
-                //index -- circular check
-                int indx = j%n;
+        // monotonic stack 
+        stack <int> st;
+        int n = nums.size();
+        vector<int>  ans(n, -1);
 
-                if ( nums[indx]>nums[i]){
-                    ans[i]= nums[indx];
-                    break;
-                }
+        for ( int i = 2*n-1; i>=0; i--){
+            // circular index extract
+            int ind = i%n;
 
+            //pop until u find , a NGE, than current element
+            while ( !st.empty() && st.top()<= nums[ind]){
+                st.pop();
             }
+            if ( st.empty()) ans[ind] =  -1;
+            
+            else  ans[ind] = st.top();
+
+            st.push(nums[ind]);
         }
 
         return ans;
