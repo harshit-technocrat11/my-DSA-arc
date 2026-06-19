@@ -12,25 +12,23 @@
 class Solution {
 public:
 
-    int Height(TreeNode* node){
+
+    int Height(TreeNode* node, int &diameter){
         if ( node==NULL) return 0;
 
-        int lh = Height(node->left);
-        int rh = Height(node->right);
+        int lh = Height(node->left, diameter);
+        int rh = Height(node->right, diameter);
+        diameter = max( lh+rh , diameter); //find the current diameter of the node, and update the answer with max value 
+
         return max(lh, rh) +1; 
     }
 
     int diameterOfBinaryTree(TreeNode* root) {
-        if ( root == NULL) return 0;
+        int diameter =0;
 
-        int LD = diameterOfBinaryTree(root->left); //left diameter
-        int RD = diameterOfBinaryTree(root->right); //right diameter 
+        Height(root, diameter);
 
-        int currD = Height(root->left) + Height(root->right);  // diameter via current root
-
-        //max of all 3 diameters
-
-        return max(currD, max(LD, RD));
+        return diameter;
 
     }
 };
