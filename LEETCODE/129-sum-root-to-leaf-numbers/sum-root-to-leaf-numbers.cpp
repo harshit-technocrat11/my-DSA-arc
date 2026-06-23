@@ -22,7 +22,7 @@ public:
             // store path sum in totalsum
             totalSum+=pathSum;
             //exclude the current node
-            pathSum-=node->val;
+
             return;
         }
 
