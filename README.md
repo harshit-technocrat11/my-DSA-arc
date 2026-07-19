@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0225-implement-stack-using-queues) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Queue
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Hash Table
 |  |
@@ -70,4 +73,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0703-kth-largest-element-in-a-stream) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0703-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
