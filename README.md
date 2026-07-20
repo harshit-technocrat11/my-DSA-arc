@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1260-shift-2d-grid](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1260-shift-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1572-matrix-diagonal-sum) |
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1260-shift-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1572-matrix-diagonal-sum) |
 ## String
 |  |
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0703-kth-largest-element-in-a-stream) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
