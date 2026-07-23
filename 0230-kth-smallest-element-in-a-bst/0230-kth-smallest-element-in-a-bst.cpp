@@ -11,36 +11,36 @@
  */
 class Solution {
 public:
-    // inorder traversal
-    void inorderTraverse(TreeNode* node, vector<int>& ans){
+
+    void inorderTraverse(TreeNode* root,  int k, int &cnt, int &ans){
         // base case 
-        if (node==nullptr) return ;
+        if ( root==NULL) return ;
 
-        // leaf 
-        if (node->left==NULL && node->right==NULL) {
-            ans.push_back(node->val);
-            return;
-        }
+            // left, root, right
+            inorderTraverse(root->left, k , cnt, ans);
 
-        // left, root, right
-        if ( node->left) inorderTraverse(node->left, ans);
+            // push the root / check
+            cnt++;
+            if ( cnt==k){
+                ans = root->val;
+                return ;
+            }
+            
 
-        // push the root
-        ans.push_back(node->val);
-
-        // right
-        if (node->right) inorderTraverse(node->right, ans);
-
-        return;
+            // right
+            inorderTraverse(root->right, k , cnt , ans);
+        
 
     }
 
     int kthSmallest(TreeNode* root, int k) {
-        vector<int> ans;
-        inorderTraverse(root, ans);
+        
+        int answer=0;
+        int cnt=0;
+        
+        inorderTraverse(root, k , cnt, answer);
 
-        // 1 indexed array
+        return answer;
 
-        return ans[k-1];
     }
 };
