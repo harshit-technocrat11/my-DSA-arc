@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0215-kth-largest-element-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0628-maximum-product-of-three-numbers) |
+| [0692-top-k-frequent-words](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0692-top-k-frequent-words) |
 | [1046-last-stone-weight](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1046-last-stone-weight) |
 | [1260-shift-2d-grid](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0022-generate-parentheses) |
+| [0692-top-k-frequent-words](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0692-top-k-frequent-words) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0692-top-k-frequent-words](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0692-top-k-frequent-words) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0215-kth-largest-element-in-an-array) |
+| [0692-top-k-frequent-words](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -148,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0215-kth-largest-element-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0628-maximum-product-of-three-numbers) |
+| [0692-top-k-frequent-words](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0692-top-k-frequent-words) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/3536-maximum-product-of-two-digits) |
@@ -158,5 +163,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0692-top-k-frequent-words](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0692-top-k-frequent-words) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0692-top-k-frequent-words) |
+## Bucket Sort
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
