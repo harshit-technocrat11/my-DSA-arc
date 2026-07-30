@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Search
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0450-delete-node-in-a-bst) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0450-delete-node-in-a-bst) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -108,12 +112,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0692-top-k-frequent-words) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Search Tree
@@ -122,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0450-delete-node-in-a-bst) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0703-kth-largest-element-in-a-stream) |
