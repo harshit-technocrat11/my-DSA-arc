@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0048-rotate-image) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0628-maximum-product-of-three-numbers) |
+| [1922-count-good-numbers](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1922-count-good-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
 |  |
@@ -185,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Recursion
+|  |
+| ------- |
+| [1922-count-good-numbers](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
