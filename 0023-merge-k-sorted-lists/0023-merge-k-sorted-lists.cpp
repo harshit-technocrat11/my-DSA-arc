@@ -10,35 +10,46 @@
  */
 class Solution {
 public:
-    ListNode* mergeKLists(vector<ListNode*>& lists) {
-        if (lists.size()==0) return nullptr;
-
-        priority_queue<int , vector<int>, greater<int> > minHeap;
-
-        for ( int i = 0 ; i < lists.size() ; i++){
-            ListNode* node = lists[i];
-
-            while (node!=nullptr){
-                minHeap.push(node->val);
-                node= node->next;
-            }
-
+    struct compare {
+        bool operator() (ListNode*a, ListNode* b){
+            return a->val > b->val;
         }
+    };
 
+    ListNode* mergeKLists(vector<ListNode*>& lists) {
+        
+
+        priority_queue<ListNode* , vector<ListNode*>, compare > minHeap;
+
+        // push the first node of every non empty list
+
+        for ( ListNode* node: lists){
+            if ( node!=nullptr){
+                minHeap.push(node);
+            }
+        }
+        // if empty heap
         if ( minHeap.empty()) return nullptr;
 
-        // now merge 
-        ListNode* head= new ListNode(minHeap.top());
-        minHeap.pop();
-        ListNode* temp = head; 
+        ListNode* head = new ListNode(0);
+        ListNode* temp = head; //iterator
 
+        // now main Loop 
         while (!minHeap.empty()){
-            temp->next =new ListNode(minHeap.top());
+
+            ListNode* smallestNode = minHeap.top();
             minHeap.pop();
 
-            temp = temp->next;
-        }
+            temp->next = smallestNode; 
+            temp = temp->next; 
 
-        return head;
+            // push smallest's node , next value into the heap
+
+            if ( smallestNode->next!=nullptr){
+                minHeap.push(smallestNode->next);
+            }
+            
+        }
+        return head->next ;
     }
 };
