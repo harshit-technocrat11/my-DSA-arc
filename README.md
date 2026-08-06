@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0973-k-closest-points-to-origin) |
 | [1922-count-good-numbers](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1922-count-good-numbers) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
 |  |
@@ -242,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0023-merge-k-sorted-lists) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
