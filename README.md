@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0057-insert-interval) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0215-kth-largest-element-in-an-array) |
 | [0455-assign-cookies](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0628-maximum-product-of-three-numbers) |
@@ -248,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/3345-smallest-divisible-digit-product-i) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
