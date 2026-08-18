@@ -15,14 +15,14 @@ public:
                 sc++; 
                 power =  power - tokens[start];
                 start++;
-                maxScore = max(maxScore, sc);
+                maxScore = max(maxScore, sc); //maintain a max score always;
             }
 
             // play a face down
             else if (sc>=1){
                 sc--;
                 power = power+ tokens[end];
-                 maxScore = max(maxScore, sc);
+
                 end--;
             }
             
