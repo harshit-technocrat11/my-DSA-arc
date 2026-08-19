@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0692-top-k-frequent-words) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0542-01-matrix) |
+| [0678-valid-parenthesis-string](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0678-valid-parenthesis-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0225-implement-stack-using-queues](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0225-implement-stack-using-queues) |
+| [0678-valid-parenthesis-string](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0678-valid-parenthesis-string) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Design
 |  |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0678-valid-parenthesis-string) |
 | [0846-hand-of-straights](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0881-boats-to-save-people) |
@@ -320,4 +324,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0881-boats-to-save-people) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
