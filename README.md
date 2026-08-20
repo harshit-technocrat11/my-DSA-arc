@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0130-surrounded-regions](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0130-surrounded-regions) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0455-assign-cookies) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0054-spiral-matrix) |
 | [0130-surrounded-regions](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0733-flood-fill) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0130-surrounded-regions](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0463-island-perimeter](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0463-island-perimeter) |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0547-number-of-provinces) |
@@ -314,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
