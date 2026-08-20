@@ -1,19 +1,18 @@
 class Solution {
 
-    void dfs (int row, int col ,vector<vector<char>>& grid, vector<vector<int>> &vis, vector<vector<int>> &dir ){
+    void dfs (int row, int col ,vector<vector<char>>& grid ){
         int m=grid.size();
         int n= grid[0].size();
-        // mark as visited
-        vis[row][col]=1;
-
-        for ( int i=0; i < 4; i++){
-            int nrow =  row + dir[i][0];
-            int ncol =  col + dir[i][1];
-
-            if ( nrow>=0 && nrow < m  && ncol >=0 && ncol< n && grid[nrow][ncol]=='1' && !vis[nrow][ncol]){
-                dfs ( nrow, ncol , grid, vis, dir);
-            }
+        if (row < 0 || col < 0 || row >= m || col >= n || grid[row][col] == '0') {
+            return;
         }
+        // mark as visited 
+        grid[row][col]='0';
+
+        dfs ( row+1, col , grid);
+        dfs ( row-1, col , grid);
+        dfs ( row, col+1 , grid);
+        dfs ( row, col-1 , grid);
     }
 public:
     int numIslands(vector<vector<char>>& grid) {
@@ -21,14 +20,11 @@ public:
         int m=grid.size();
         int n= grid[0].size();
         int count =0; 
-        vector<vector<int>> vis(m, vector<int>(n,0));
-
-        vector<vector<int>> dir =  {{-1,0}, {0,1}, {1,0}, {0,-1}};
 
         for ( int i=0; i < m; i++){
             for ( int j=0; j < n; j++){
-                if ( vis[i][j]==0 && grid[i][j]=='1'){
-                    dfs ( i, j, grid, vis , dir );
+                if ( grid[i][j]=='1'){
+                    dfs ( i, j, grid  );
                     count++;
                 }
             }
