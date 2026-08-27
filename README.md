@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0743-network-delay-time](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0743-network-delay-time) |
 | [0973-k-closest-points-to-origin](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0802-find-eventual-safe-states) |
 | [1971-find-if-path-exists-in-graph](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1971-find-if-path-exists-in-graph) |
@@ -378,4 +382,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0785-is-graph-bipartite) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
