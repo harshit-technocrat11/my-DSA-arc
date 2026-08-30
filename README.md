@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1572-matrix-diagonal-sum) |
+| [1631-path-with-minimum-effort](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1631-path-with-minimum-effort) |
 | [2574-left-and-right-sum-differences](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/2574-left-and-right-sum-differences) |
 | [3731-find-missing-elements](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/3731-find-missing-elements) |
 ## Matrix
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1260-shift-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1572-matrix-diagonal-sum) |
+| [1631-path-with-minimum-effort](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1631-path-with-minimum-effort) |
 ## String
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1631-path-with-minimum-effort](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1631-path-with-minimum-effort) |
 ## Linked List
 |  |
 | ------- |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1254-number-of-closed-islands) |
+| [1631-path-with-minimum-effort](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1971-find-if-path-exists-in-graph) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
@@ -201,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1254-number-of-closed-islands) |
+| [1631-path-with-minimum-effort](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1971-find-if-path-exists-in-graph) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Search Tree
@@ -226,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1631-path-with-minimum-effort) |
 ## Data Stream
 |  |
 | ------- |
@@ -346,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1254-number-of-closed-islands) |
+| [1631-path-with-minimum-effort](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -399,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1631-path-with-minimum-effort) |
 ## Prefix Sum
 |  |
 | ------- |
