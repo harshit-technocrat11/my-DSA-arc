@@ -453,4 +453,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
