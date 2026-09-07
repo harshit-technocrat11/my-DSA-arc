@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0022-generate-parentheses) |
+| [0077-combinations](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0077-combinations) |
 ## Stack
 |  |
 | ------- |
