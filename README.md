@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0057-insert-interval) |
+| [0079-word-search](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0130-surrounded-regions](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0130-surrounded-regions) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0463-island-perimeter) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0079-word-search) |
 | [0678-valid-parenthesis-string](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0692-top-k-frequent-words) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0079-word-search) |
 ## Stack
 |  |
 | ------- |
@@ -150,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0079-word-search) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0130-surrounded-regions](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0200-number-of-islands) |
