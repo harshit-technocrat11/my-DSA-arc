@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0056-merge-intervals) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0022-generate-parentheses) |
+| [0051-n-queens](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0079-word-search) |
 ## Stack
@@ -464,4 +466,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0175-combine-two-tables) |
 | [0595-big-countries](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0595-big-countries) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
