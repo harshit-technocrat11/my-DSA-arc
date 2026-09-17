@@ -487,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0595-big-countries) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1068-product-sales-analysis-i](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1068-product-sales-analysis-i) |
+| [1693-daily-leads-and-partners](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1693-daily-leads-and-partners) |
 | [1757-recyclable-and-low-fat-products](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1757-recyclable-and-low-fat-products) |
 ## Algorithm X
 |  |
