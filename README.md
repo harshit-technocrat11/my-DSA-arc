@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1710-maximum-units-on-a-truck) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2574-left-and-right-sum-differences](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/2574-left-and-right-sum-differences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/3364-minimum-positive-sum-subarray) |
 | [3731-find-missing-elements](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/3731-find-missing-elements) |
 | [3903-smallest-stable-index-i](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/3904-smallest-stable-index-ii) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1652-defuse-the-bomb) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/3364-minimum-positive-sum-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0410-split-array-largest-sum) |
 | [2574-left-and-right-sum-differences](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/2574-left-and-right-sum-differences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/3904-smallest-stable-index-ii) |
 ## Bellman–Ford Algorithm
