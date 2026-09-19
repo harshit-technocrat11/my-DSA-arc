@@ -4,21 +4,24 @@ public:
         int n = nums.size();
         int minSum  = INT_MAX;
         bool f = false;
+        
+        vector<int> prefix(n+1, 0);
+        for ( int i=1; i<n+1; i++ ){
+            prefix[i]= prefix[i-1] + nums[i-1];
+        }
 
-        for ( int s = 0 ; s< n; s++){
-            int sum  = 0;
-            for ( int e = s; e<n; e++){
-                sum+= nums[e];
-                int len = e-s+1;
+        for ( int k=l; k<=r; k++){ // all possible sizes 
+            for ( int i = 0; i+k <= n ; i++){
 
-                // check Valid
-                if ( len>= l && len <= r && sum > 0){
-                    minSum = min(sum , minSum);
+                int sum = prefix[k+i] - prefix[i];
+
+                if ( sum> 0){
+                    minSum= min(minSum, sum);
                     f= true;
                 }
             }
         }
 
-        return f? minSum: -1; 
+        return f? minSum : -1;
     }
 };
