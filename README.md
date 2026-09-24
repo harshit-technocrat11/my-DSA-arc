@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0079-word-search) |
+| [0433-minimum-genetic-mutation](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0433-minimum-genetic-mutation) |
 | [0678-valid-parenthesis-string](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0692-top-k-frequent-words) |
 | [1079-letter-tile-possibilities](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1079-letter-tile-possibilities) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0433-minimum-genetic-mutation](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0433-minimum-genetic-mutation) |
 | [0525-contiguous-array](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0525-contiguous-array) |
 | [0621-task-scheduler](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0210-course-schedule-ii) |
+| [0433-minimum-genetic-mutation](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0433-minimum-genetic-mutation) |
 | [0463-island-perimeter](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0547-number-of-provinces) |
@@ -527,4 +530,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0070-climbing-stairs) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0433-minimum-genetic-mutation](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0433-minimum-genetic-mutation) |
 <!---LeetCode Topics End-->
