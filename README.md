@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2574-left-and-right-sum-differences](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/2574-left-and-right-sum-differences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/3364-minimum-positive-sum-subarray) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/3731-find-missing-elements) |
 | [3903-smallest-stable-index-i](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/3904-smallest-stable-index-ii) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1922-count-good-numbers](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1922-count-good-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/3870-count-commas-in-range) |
 ## Sorting
 |  |
