@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0746-min-cost-climbing-stairs) |
+| [0752-open-the-lock](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0752-open-the-lock) |
 | [0846-hand-of-straights](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0881-boats-to-save-people) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0433-minimum-genetic-mutation) |
 | [0678-valid-parenthesis-string](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0692-top-k-frequent-words) |
+| [0752-open-the-lock](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0752-open-the-lock) |
 | [1079-letter-tile-possibilities](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1079-letter-tile-possibilities) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0692-top-k-frequent-words) |
+| [0752-open-the-lock](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0752-open-the-lock) |
 | [0846-hand-of-straights](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0846-hand-of-straights) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0743-network-delay-time) |
+| [0752-open-the-lock](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0752-open-the-lock) |
 | [0785-is-graph-bipartite](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0797-all-paths-from-source-to-target) |
@@ -536,4 +540,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0433-minimum-genetic-mutation](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0433-minimum-genetic-mutation) |
+| [0752-open-the-lock](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0752-open-the-lock) |
 <!---LeetCode Topics End-->
