@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0410-split-array-largest-sum) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0973-k-closest-points-to-origin) |
@@ -548,4 +550,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0433-minimum-genetic-mutation](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0433-minimum-genetic-mutation) |
 | [0752-open-the-lock](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0752-open-the-lock) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
