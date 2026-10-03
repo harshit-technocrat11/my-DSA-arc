@@ -13,17 +13,18 @@ public:
 
     int rob(vector<int>& nums) {
         int n= nums.size();
-        vector<int> dp(n+2,0);
+        // 2 ptrs
+        int prev2=0;
+        int prev1 = 0;
 
-        // tabulation
-        for ( int i=n-1; i>=0; i--){
-            int rob = nums[i] + dp[i+2];
-            int skip =  dp[i+1];
+        for ( int num : nums){
+            int curr =  max(num+prev2, prev1);
 
-            dp[i]= max(rob, skip);
+            prev2 = prev1;
+            prev1=curr;
         }
 
-        return dp[0];
+        return prev1;
 
     }
 };
