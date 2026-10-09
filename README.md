@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0079-word-search) |
 | [0797-all-paths-from-source-to-target](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0797-all-paths-from-source-to-target) |
@@ -543,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0052-n-queens-ii) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
