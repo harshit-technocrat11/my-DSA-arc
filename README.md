@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2574-left-and-right-sum-differences](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/2574-left-and-right-sum-differences) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3364-minimum-positive-sum-subarray](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/3364-minimum-positive-sum-subarray) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/3731-find-missing-elements) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Quicksort
 |  |
