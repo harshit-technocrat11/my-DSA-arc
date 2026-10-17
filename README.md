@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0022-generate-parentheses) |
+| [0076-minimum-window-substring](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0079-word-search) |
 | [0433-minimum-genetic-mutation](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0433-minimum-genetic-mutation) |
 | [0678-valid-parenthesis-string](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0678-valid-parenthesis-string) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0433-minimum-genetic-mutation](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0433-minimum-genetic-mutation) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0076-minimum-window-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1652-defuse-the-bomb](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
