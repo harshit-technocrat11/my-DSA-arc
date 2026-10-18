@@ -6,7 +6,7 @@ class Solution {
         return lhs <= rhs? true: false;
     }
 
-    void dfs(int u, vector<vector<int>> &bombs, vector<int> &vis , int &count ){
+    void dfs(int u, vector<vector<int>> &bombs, vector<vector<int>> &adj, vector<int> &vis , int &count ){
         int x = bombs[u][0]; 
         int y = bombs[u][1]; 
         int r = bombs[u][2];
@@ -14,30 +14,47 @@ class Solution {
         vis[u]=1;
         count++; //detonated
 
-        for ( int i=0; i < bombs.size() ; i++){
-            if (i==u) continue;
-            int nx = bombs[i][0]; 
-            int ny = bombs[i][1]; 
-            int nr = bombs[i][2];
+        for (int &v : adj[u]){
+            int nx = bombs[v][0]; 
+            int ny = bombs[v][1]; 
+            int nr = bombs[v][2];
 
-            if ( insideCircle(x, y, r, nx, ny) && vis[i]!=1){
-                dfs(i, bombs, vis, count);
+            if ( vis[v]!=1){
+                dfs(v, bombs,adj,  vis, count);
             } 
         } 
-
     }
 public:
     int maximumDetonation(vector<vector<int>>& bombs) {
         int n=bombs.size();
-        int mxCnt = 0;
+        
+        vector<vector<int>> adj(n);
+        // build adj list 
+        for ( int i=0; i < n; i++){
+            long long x = bombs[i][0];
+            long long y = bombs[i][1];
+            long long r = bombs[i][2];
+
+            for (int j = 0; j < n; j++) {
+                if (i == j) continue;
+
+                int nx = bombs[j][0]; 
+                int ny = bombs[j][1]; 
+
+                if ( insideCircle(x, y, r, nx, ny)){
+                    adj[i].push_back(j);
+                }
+            }
+        }
+
+        int mxCnt = 0; //ans
         for ( int i = 0; i < n; i++ ) {
             vector<int> vis(n,0);
             int count = 0;
 
-            dfs(i , bombs, vis, count);
+            dfs(i , bombs, adj,  vis, count);
 
             mxCnt =  max(mxCnt, count);
-
         }
 
         return mxCnt;
