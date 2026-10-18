@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0692-top-k-frequent-words) |
+| [0695-max-area-of-island](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0733-flood-fill) |
 | [0740-delete-and-earn](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0740-delete-and-earn) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1020-number-of-enclaves) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0743-network-delay-time) |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0743-network-delay-time) |
@@ -456,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1020-number-of-enclaves) |
