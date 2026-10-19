@@ -15,14 +15,14 @@ public:
     int minimumTotal(vector<vector<int>>& triangle) {
         int n = triangle.size();
 
-        vector<vector<int>> dp = triangle;
+        vector<int> dp = triangle[n-1];
 
         for ( int r = n-2; r>=0; r--){
             for ( int c=0; c<=r; c++){
-                dp[r][c] = dp[r][c] + min(dp[r+1][c], dp[r+1][c+1]);
+                dp[c] = triangle[r][c] + min(dp[c], dp[c+1]);
             }
         }
 
-        return dp[0][0];
+        return dp[0];
     }
 };
