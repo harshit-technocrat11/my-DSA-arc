@@ -28,9 +28,10 @@ public:
     // }
 
     int minFallingPathSum(vector<vector<int>>& matrix) {
+    // Tabulation - optimized space
         int n = matrix.size();
 
-        vector<vector<int>> dp = matrix;
+        // vector<vector<int>> dp = matrix;
         // int ans=INT_MAX;
 
         for ( int r=n-2 ; r>=0 ; r--){
@@ -38,21 +39,21 @@ public:
                 int mini = 100000;
 
                 if (c-1>=0){
-                    mini = min(mini, dp[r+1][c-1]);
-                }
-                
-                mini = min(mini, dp[r+1][c]);
-                
-                if ( c+1<n){
-                    mini = min(mini,  dp[r+1][c+1]);
+                    mini = min(mini, matrix[r+1][c-1]);
                 }
 
-                dp[r][c] = matrix[r][c] + mini;
+                mini = min(mini, matrix[r+1][c]);
+                
+                if ( c+1<n){
+                    mini = min(mini,  matrix[r+1][c+1]);
+                }
+
+                matrix[r][c] = matrix[r][c] + mini;
             }
 
         }
 
-        return *min_element(dp[0].begin(), dp[0].end());
+        return *min_element(matrix[0].begin(), matrix[0].end());
 
     }
 };
