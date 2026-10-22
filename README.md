@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2101-detonate-the-maximum-bombs](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/2101-detonate-the-maximum-bombs) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2574-left-and-right-sum-differences](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0881-boats-to-save-people](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0948-bag-of-tokens) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Binary Search
 |  |
 | ------- |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1514-path-with-maximum-probability](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1631-path-with-minimum-effort) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Data Stream
 |  |
 | ------- |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1710-maximum-units-on-a-truck) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/3731-find-missing-elements) |
@@ -449,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0948-bag-of-tokens) |
 | [1710-maximum-units-on-a-truck](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1710-maximum-units-on-a-truck) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Merge Sort
 |  |
 | ------- |
@@ -559,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0525-contiguous-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0974-subarray-sums-divisible-by-k) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2574-left-and-right-sum-differences](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/2574-left-and-right-sum-differences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/3903-smallest-stable-index-i) |
