@@ -10,19 +10,13 @@ public:
             int start = intervals[i][0];
             int end = intervals[i][1];
 
-            if ( !ans.empty() && end<=ans.back()[1]){
-                continue;
+            if (ans.empty() || ans.back()[1] < start){
+                ans.push_back({start, end});
             }
-
-            for ( int j = i+1; j<n ;j++){
-                if (intervals[j][0]<=end){
-                    end = max(end, intervals[j][1]);
-                }
-                else {
-                    break;
-                }
+            else{
+                // merge 
+                ans.back()[1] =  max(end, ans.back()[1]);
             }
-            ans.push_back({start, end});
         }
         return ans;
     }
