@@ -4,8 +4,7 @@ public:
 
     int solve(int i , int j , int & m, int& n, vector<vector<int>>& obstacleGrid){
         // boundary limit
-        if (i>=m || j>=n) return 0;
-        if (obstacleGrid[i][j]==1) return 0;
+        if (i>=m || j>=n || obstacleGrid[i][j]==1) return 0;
 
         if (i==m-1 && j==n-1) return 1; //found a  path
 
@@ -22,7 +21,7 @@ public:
         memset(t, -1, sizeof(t));
         int m=obstacleGrid.size();
         int n = obstacleGrid[0].size();
-        
+
         return solve(0,0, m,n, obstacleGrid);
     }
 };
