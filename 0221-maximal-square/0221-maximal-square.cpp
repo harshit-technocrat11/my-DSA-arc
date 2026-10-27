@@ -16,18 +16,11 @@ public:
             return dp[i][j]=0;
         }
 
-        int mini = +1e8;
-
-        mini  = min(mini, solve(i, j-1, matrix, maxi ));
-       
-        mini  = min(mini, solve( i-1,j-1, matrix, maxi));
-       
-
-        mini  = min(mini, solve( i-1,j, matrix, maxi));
+        int mini = min({solve(i, j-1, matrix, maxi ),solve(i-1, j-1, matrix, maxi ) , solve( i-1,j, matrix, maxi) });
 
         maxi = max(mini+1, maxi);
 
-        return dp[i][j] =  mini + 1 ;
+        return dp[i][j] = mini+1 ;
 
     }
 
