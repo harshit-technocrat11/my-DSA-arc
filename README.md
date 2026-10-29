@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1200-minimum-absolute-difference) |
 | [1254-number-of-closed-islands](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1260-shift-2d-grid) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1514-path-with-maximum-probability](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1514-path-with-maximum-probability) |
 | [1572-matrix-diagonal-sum](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1572-matrix-diagonal-sum) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1260-shift-2d-grid) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1572-matrix-diagonal-sum](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1572-matrix-diagonal-sum) |
 | [1631-path-with-minimum-effort](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1631-path-with-minimum-effort) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0931-minimum-falling-path-sum) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Backtracking
 |  |
