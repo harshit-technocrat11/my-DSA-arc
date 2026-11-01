@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-verifying-an-alien-dictionary](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0953-verifying-an-alien-dictionary) |
 | [1079-letter-tile-possibilities](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1079-letter-tile-possibilities) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0931-minimum-falling-path-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1857-largest-color-value-in-a-directed-graph) |
 ## Backtracking
 |  |
 | ------- |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1079-letter-tile-possibilities](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1079-letter-tile-possibilities) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -422,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0692-top-k-frequent-words) |
 | [1079-letter-tile-possibilities](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1079-letter-tile-possibilities) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Trie
@@ -527,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1584-min-cost-to-connect-all-points) |
 | [1791-find-center-of-star-graph](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1791-find-center-of-star-graph) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1971-find-if-path-exists-in-graph) |
 | [2101-detonate-the-maximum-bombs](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/2101-detonate-the-maximum-bombs) |
 ## Timsort
@@ -543,11 +548,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0802-find-eventual-safe-states) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1857-largest-color-value-in-a-directed-graph) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0207-course-schedule) |
 | [0797-all-paths-from-source-to-target](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0797-all-paths-from-source-to-target) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1857-largest-color-value-in-a-directed-graph) |
 ## Kosaraju's Algorithm
 |  |
 | ------- |
@@ -637,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0070-climbing-stairs) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1857-largest-color-value-in-a-directed-graph) |
 ## Bidirectional Search
 |  |
 | ------- |
