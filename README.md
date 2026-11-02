@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3364-minimum-positive-sum-subarray](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/3364-minimum-positive-sum-subarray) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/3665-twisted-mirror-path-count) |
 | [3731-find-missing-elements](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/3731-find-missing-elements) |
 | [3903-smallest-stable-index-i](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/3904-smallest-stable-index-ii) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1631-path-with-minimum-effort) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/3665-twisted-mirror-path-count) |
 ## String
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [3665-twisted-mirror-path-count](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/3665-twisted-mirror-path-count) |
 ## Backtracking
 |  |
 | ------- |
