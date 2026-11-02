@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2409-count-days-spent-together](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0973-k-closest-points-to-origin) |
 | [1922-count-good-numbers](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1922-count-good-numbers) |
 | [2101-detonate-the-maximum-bombs](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/2101-detonate-the-maximum-bombs) |
+| [2409-count-days-spent-together](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/2409-count-days-spent-together) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
