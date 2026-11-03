@@ -34,24 +34,28 @@ public:
         vector<vector<int>> dp(n+1, vector<int>(2, 0));
 
         // on last day , 0 transactns
-        dp[n][0] = dp[n][1] = 0;
+        // dp[n][0] = dp[n][1] = 0;
+
+        // space optmize
+        int dp0 = 0;
+        int dp1 = 0;
 
         for (int i=n-1; i>=0 ; i--){
             for (int canBuy=0; canBuy<=1; canBuy++){
                 long long profit = 0;
                 if (canBuy){
-                profit+= max( -prices[i] + dp[i+1][0] , 0 + dp[i+1][1]);
+                profit+= max( -prices[i] + dp0 , 0 + dp1 );
+                dp1 = profit;
                 }
 
                 else {
                 // sell state canBuy = 0
-                profit+= max( prices[i] + dp[i+1][1] , 0 + dp[i+1][0]);
-                }
-
-                dp[i][canBuy] = profit;
+                profit+= max( prices[i] + dp1 , 0 + dp0);
+                dp0 = profit;
+                }         
             }
         }
 
-        return dp[0][1];
+        return dp1;
     }
 };
