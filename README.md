@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0881-boats-to-save-people) |
 | [0931-minimum-falling-path-sum](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0931-minimum-falling-path-sum) |
+| [0934-shortest-bridge](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0934-shortest-bridge) |
 | [0948-bag-of-tokens](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0948-bag-of-tokens) |
 | [0953-verifying-an-alien-dictionary](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0953-verifying-an-alien-dictionary) |
 | [0973-k-closest-points-to-origin](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0973-k-closest-points-to-origin) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0733-flood-fill) |
 | [0931-minimum-falling-path-sum](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0931-minimum-falling-path-sum) |
+| [0934-shortest-bridge](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0934-shortest-bridge](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0934-shortest-bridge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1254-number-of-closed-islands) |
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0934-shortest-bridge](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1091-shortest-path-in-binary-matrix) |
