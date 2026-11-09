@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1200-minimum-absolute-difference) |
 | [1254-number-of-closed-islands](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1267-count-servers-that-communicate) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1514-path-with-maximum-probability](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1514-path-with-maximum-probability) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1267-count-servers-that-communicate) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1572-matrix-diagonal-sum](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1572-matrix-diagonal-sum) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1971-find-if-path-exists-in-graph) |
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1971-find-if-path-exists-in-graph) |
@@ -447,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0692-top-k-frequent-words) |
 | [1079-letter-tile-possibilities](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1079-letter-tile-possibilities) |
+| [1267-count-servers-that-communicate](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1267-count-servers-that-communicate) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -530,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1631-path-with-minimum-effort) |
