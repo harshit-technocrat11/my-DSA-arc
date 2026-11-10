@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/3693-climbing-stairs-ii) |
 | [3731-find-missing-elements](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3903-smallest-stable-index-i](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/3903-smallest-stable-index-i) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [3665-twisted-mirror-path-count](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/3693-climbing-stairs-ii) |
 ## Backtracking
 |  |
 | ------- |
