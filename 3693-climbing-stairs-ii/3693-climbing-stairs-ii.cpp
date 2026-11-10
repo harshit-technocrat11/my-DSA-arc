@@ -1,25 +1,21 @@
 class Solution {
 public:
-    int solve (int i , vector<int> &costs, vector<int> &dp , int n ){
+    int climbStairs(int n, vector<int>& costs) {
+        // tabulation approach
+        vector<int> dp(n+1);
+        dp[0] = 0;
 
-        if ( i>=n) return 0 ;
 
-        if ( dp[i]!=-1) return dp[i];
-        
-        long long currCost = 1e9;
-        
-        for ( int j=i+1; j<=min(n, i+3); j++){
-            long long  a =costs[j-1] + (j-i)*(j-i) + solve(j, costs, dp, n);
-            currCost = a<=currCost ? a: currCost;
+        for ( int i=n-1; i >=0 ;i--){
+            int cost = INT_MAX;
+
+            for ( int j=i+1; j<= min(n, i+3); j++){
+                cost  = min(cost, costs[j-1] + (j-i)*(j-i) + dp[j]);
+            }
+
+            dp[i] = cost;
         }
 
-        return dp[i] =  currCost;
-    }
-
-
-    int climbStairs(int n, vector<int>& costs) {
-        vector<int> dp(n+1,-1);
-        dp[n] = 0;
-        return solve(0, costs, dp, n);
+        return dp[0];
     }
 };
