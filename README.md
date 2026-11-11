@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0079-word-search) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0130-surrounded-regions](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0200-number-of-islands) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0207-course-schedule) |
