@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0221-maximal-square) |
+| [0322-coin-change](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0435-non-overlapping-intervals) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0221-maximal-square) |
+| [0322-coin-change](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0542-01-matrix) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0322-coin-change) |
 | [0433-minimum-genetic-mutation](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0433-minimum-genetic-mutation) |
 | [0463-island-perimeter](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0542-01-matrix) |
@@ -692,4 +695,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
