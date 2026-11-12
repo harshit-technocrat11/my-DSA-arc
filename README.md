@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0463-island-perimeter) |
+| [0518-coin-change-ii](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0621-task-scheduler) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0435-non-overlapping-intervals) |
+| [0518-coin-change-ii](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0678-valid-parenthesis-string) |
 | [0740-delete-and-earn](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0740-delete-and-earn) |
@@ -703,8 +705,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
