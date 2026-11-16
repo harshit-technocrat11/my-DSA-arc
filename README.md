@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0450-delete-node-in-a-bst) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0463-island-perimeter](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0547-number-of-provinces) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0547-number-of-provinces) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0695-max-area-of-island) |
