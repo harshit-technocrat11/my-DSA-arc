@@ -32,6 +32,6 @@ public:
 
         solve(root, ans);
 
-        return ans == INT_MIN? -1 : ans;
+        return ans;;
     }
 };
