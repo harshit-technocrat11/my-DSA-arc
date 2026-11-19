@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0221-maximal-square) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0079-word-search) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0207-course-schedule) |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -734,4 +738,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0416-partition-equal-subset-sum) |
 | [1049-last-stone-weight-ii](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1049-last-stone-weight-ii) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
