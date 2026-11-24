@@ -1,24 +1,19 @@
 class RecentCounter {
-    vector<int> requests;
-    int i;
-    int j;
+    queue<int> q;
 public:
 
     RecentCounter() {
-        i=0;
-        j=-1;
+  
     }
     
     int ping(int t) {
-        requests.push_back(t);
-        j++;
+        // process current req
+        q.push(t);
 
-        // check thru the window
-        while (i<j && requests[j]-3000 > requests[i]){
-            i++;
-        }
+        // removing the invalid elements
+        while(!q.empty() && q.front() < t-3000) q.pop();
 
-        return j-i+1;
+        return q.size();
     }
 };
 
