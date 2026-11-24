@@ -208,10 +208,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0225-implement-stack-using-queues) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0933-number-of-recent-calls](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0225-implement-stack-using-queues) |
+| [0933-number-of-recent-calls](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0933-number-of-recent-calls) |
 ## Two Pointers
 |  |
 | ------- |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0933-number-of-recent-calls](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/0933-number-of-recent-calls) |
 ## Simulation
 |  |
 | ------- |
