@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1631-path-with-minimum-effort) |
 | [1652-defuse-the-bomb](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1652-defuse-the-bomb) |
 | [1710-maximum-units-on-a-truck](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1710-maximum-units-on-a-truck) |
+| [1834-single-threaded-cpu](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1834-single-threaded-cpu) |
 | [1882-process-tasks-using-servers](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1882-process-tasks-using-servers) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1514-path-with-maximum-probability](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1631-path-with-minimum-effort) |
+| [1834-single-threaded-cpu](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1834-single-threaded-cpu) |
 | [1882-process-tasks-using-servers](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1882-process-tasks-using-servers) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Data Stream
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1200-minimum-absolute-difference) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1710-maximum-units-on-a-truck) |
+| [1834-single-threaded-cpu](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/1834-single-threaded-cpu) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/harshit-technocrat11/my-DSA-arc/tree/master/3517-smallest-palindromic-rearrangement-i) |
